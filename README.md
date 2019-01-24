@@ -1,9 +1,7 @@
-# LoadingView
-A new Loading animation 
 
-s.author    = "Jun"
+pod install
 
-s.platform  = :ios, "12.1"
-
-s.swift_version = "4.2"
+```
+   pod 'JZLoading', '~> 0.0.1'
+```
 
